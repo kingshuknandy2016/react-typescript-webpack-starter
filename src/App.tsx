@@ -15,6 +15,9 @@ export const App = () => {
       </h1>
       <img src={image} alt={'React Logo'} width={300} height={200}></img>
       <img src={logo} alt="React Logo" width={300}></img>
+      <a href={'https://webpack-v3.jsx.app/loaders/html-loader/'}>
+        Test Anchor
+      </a>
       <Counter></Counter>
     </React.Fragment>
   )

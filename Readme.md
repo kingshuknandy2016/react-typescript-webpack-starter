@@ -8,7 +8,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 
-
+This is basic react typescript template. You can customize this as per your needs
 
 
 ## Features
